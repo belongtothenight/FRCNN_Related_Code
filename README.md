@@ -2,12 +2,12 @@
 The file you see here are all used for preparing frcnn training and testing files.
 
 ## Software Version
-Windows 11
-Blender 3.1
-Python 3.10.4
-+ pyqt5
-+ lxml
-+ labelimg
++ Windows 11
++ Blender 3.1
++ Python 3.10.4
+  + pyqt5
+  + lxml
+  + labelimg
 
 ## List of files and their usage
 ### 1. Bulk rename cmd renmae.txt
