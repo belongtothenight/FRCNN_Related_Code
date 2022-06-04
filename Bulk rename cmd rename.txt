@@ -1,0 +1,3 @@
+cd "target directory" #go to target directory
+dir #list things inside this directory
+dir /b /o:n => "filename.txt" #export target files into txt, each file in a single line, sorted with alphabet
