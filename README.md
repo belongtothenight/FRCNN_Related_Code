@@ -42,3 +42,5 @@ Thie .py file is a blender script and edited with a [post](https://blender.stack
 
 ### 11. test_frcnn v7.py
 This .py file is modified from [keras-frcnn](https://github.com/kbardool/Keras-frcnn). No adjustment was made about the algorithm, but the exporting files. Exported .csv file contains frcnn labelled area data. Exported .txt file contains frcnn overall test data. (the labeleld rate calculation is not correct, but still good enough for proximate result)
+
+If there is any question, please contact me via email "dachuan516@gmail.com".
