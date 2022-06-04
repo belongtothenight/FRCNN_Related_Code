@@ -1,4 +1,4 @@
-# IITF_FinalProject
+# IITF_FinalProject_FRCNN
 The file you see here are all used for preparing frcnn training and testing files.
 
 ## Software Version
