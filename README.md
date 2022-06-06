@@ -41,6 +41,10 @@ Thie .py file is a blender script and edited with a [post](https://blender.stack
 Thie .py file is a blender script and edited with a [post](https://blender.stackexchange.com/questions/58916/script-for-save-camera-position-to-file) in Blender StackExchange. It can export camera coordinate and rotation data into .csv file if camera(empty) is selected. The coordinate is based on user set origin. Need to make changes about export data bias before any kind of usage.
 
 ### 11. test_frcnn v7.py
-This .py file is modified from [keras-frcnn](https://github.com/kbardool/Keras-frcnn). No adjustment was made about the algorithm, but the exporting files. Exported .csv file contains frcnn labelled area data. Exported .txt file contains frcnn overall test data. (the labeleld rate calculation is not correct, but still good enough for proximate result)
+This .py file is modified from [keras-frcnn](https://github.com/kbardool/Keras-frcnn). No adjustment was made about the algorithm, but the exporting files. Exported .csv file contains FRCNN labelled area data. Exported .txt file contains frcnn overall test data. (the labeleld rate calculation is not correct, but still good enough for proximate result)
+#### To use:
+1. Copy all the codes inside this file and replace all the original code inside "test_frcnn.py".
+2. Test again in CYCU AI Console.
+3. Two files ("frcnn_test_info.txt" & "target_coordinate.csv") will generate inside folder "test_result". "txt" file contains all information about the test run; "csv" file stores all the FRCNN labeled coordinate. 
 
 If there is any question, please contact me via email "dachuan516@gmail.com".
